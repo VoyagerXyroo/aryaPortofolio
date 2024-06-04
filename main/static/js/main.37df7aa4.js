@@ -15889,7 +15889,7 @@
           } = ko();
           return i
             ? (0, Do.jsxs)("a", {
-              href: "mailto:aryamaulana1230@gmail.com@gmail.com",
+              href: "mailto:aryamaulana1230@gmail.com",
               className: "email inline-block relative overflow-hidden",
               onMouseEnter: () => {
                 r(), l();
