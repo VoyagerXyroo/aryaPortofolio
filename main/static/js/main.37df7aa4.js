@@ -37504,7 +37504,7 @@
                             },
                             initial: { y: 10, opacity: 0 },
                             animate: a && n ? { y: 0, opacity: 1 } : {},
-                            children: "UI/UX Designer 1+ Year",
+                            children: "Web Design 1+ Year",
                           }),
                           (0, Do.jsx)(To.h1, {
                             ref: t,
@@ -37518,7 +37518,7 @@
                             children: "Website Dev 2+ Years",
                           }),
                           (0, Do.jsx)(Uo, {
-                            text: "In UI/UX Designer and Web developer, i was 2+ Years experience. Have creative thinking , fast learner , and easy adapt in team work",
+                            text: "In Web Design and Web developer, i was 2+ Years experience. Have creative thinking , fast learner , and easy adapt in team work",
                             typingAnimation: !1,
                             delayOffset: 0.5,
                             loadingComplete: a,
