@@ -15973,11 +15973,11 @@
                           className: "left",
                           children: [
                             (0, Do.jsx)("p", {
-                              children: "(Judul)",
+                              children: "Project 1",
                             }),
-                            (0, Do.jsx)("h1", { children: "02" }),
+                            (0, Do.jsx)("h1", { children: "01" }),
                             (0, Do.jsx)(Fo, {
-                              url: "#",
+                              url: "https://project1-gilt-one.vercel.app/chiquita/index.html",
                               text: "Visit site",
                               isCTA: !1,
                             }),
@@ -15990,7 +15990,7 @@
                             className:
                               "image-container relative overflow-hidden",
                             children: (0, Do.jsx)("img", {
-                              src: "https://raw.githubusercontent.com/VoyagerXyroo/avenna/main/coming%20soon.jpg",
+                              src: "https://raw.githubusercontent.com/VoyagerXyroo/aryaPortofolio/main/poject1.png",
                               alt: "",
                               className: "absolute top-0 left-0 w-full",
                             }),
@@ -16003,13 +16003,13 @@
                               className: "mb-2vw",
                               children: "Year",
                             }),
-                            (0, Do.jsx)("h3", { children: "(Year)" }),
+                            (0, Do.jsx)("h3", { children: "2024" }),
                             (0, Do.jsx)("p", {
                               className: "mb-2vw",
                               children: "Role",
                             }),
                             (0, Do.jsx)("h3", {
-                              children: "(Role)",
+                              children: "Full-Stack Developer",
                             }),
                             (0, Do.jsx)("p", { children: "Technologies" }),
                             (0, Do.jsxs)("div", {
@@ -16021,11 +16021,11 @@
                                 }),
                                 (0, Do.jsx)("h4", {
                                   className: "pill",
-                                  children: "Photoshop",
+                                  children: "CSS",
                                 }),
                                 (0, Do.jsx)("h4", {
                                   className: "pill",
-                                  children: "ScrollMagic",
+                                  children: "HTML",
                                 }),
                               ],
                             }),
@@ -16053,7 +16053,7 @@
                                   animate: !d && i ? { x: 0, opacity: 1 } : {},
                                   className: "inline-block",
                                   children:
-                                    "Lorem ipsum dolor sit amet jamet.",
+                                    "Saya Membuat Website Ini Hanya Untuk Menjadikannya Contoh Projek Saya.",
                                 }),
                               ],
                             }),
