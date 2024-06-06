@@ -16053,7 +16053,7 @@
                                   animate: !d && i ? { x: 0, opacity: 1 } : {},
                                   className: "inline-block",
                                   children:
-                                    "Saya Membuat Website Ini Hanya Untuk Menjadikannya Contoh Projek Saya.",
+                                    "Saya Membuat Website Ini Hanya Untuk Menjadikannya Contoh Projek Saya. (Use Desktop For Better Experiece)",
                                 }),
                               ],
                             }),
