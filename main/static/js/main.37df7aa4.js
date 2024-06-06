@@ -15991,15 +15991,15 @@
                                 muted: !0,
                                 loop: !0,
                                 children: [
-                                  (0, Do.jsx)("source", {
-                                    src: "#",
-                                    type: "video/mp4",
-                                  }),
-                                  "Your browser does not support the video tag.",
+                                  // (0, Do.jsx)("source", {
+                                   // src: "#",
+                                  //  type: "video/mp4",
+                                 // }),
+                                 "Your browser does not support the video tag.",
                                 ],
                               }),
                               (0, Do.jsx)("img", {
-                                src: "https://raw.githubusercontent.com/VoyagerXyroo/avenna/main/coming%20soon.jpg",
+                                src: "https://raw.githubusercontent.com/VoyagerXyroo/aryaPortofolio/main/poject1.png",
                                 alt: "",
                                 className: "absolute top-0 left-0 w-full",
                               }),
@@ -16013,13 +16013,13 @@
                               className: "mb-2vw",
                               children: "Year",
                             }),
-                            (0, Do.jsx)("h3", { children: "(Year)" }),
+                            (0, Do.jsx)("h3", { children: "2024" }),
                             (0, Do.jsx)("p", {
                               className: "mb-2vw",
                               children: "Role",
                             }),
                             (0, Do.jsx)("h3", {
-                              children: "(Role)",
+                              children: "Full-Stack Developer",
                             }),
                             (0, Do.jsx)("p", { children: "Technologies" }),
                             (0, Do.jsxs)("div", {
@@ -16027,15 +16027,15 @@
                               children: [
                                 (0, Do.jsx)("h4", {
                                   className: "pill",
-                                  children: "React",
+                                  children: "JavaScript",
                                 }),
                                 (0, Do.jsx)("h4", {
                                   className: "pill",
-                                  children: "API",
+                                  children: "CSS",
                                 }),
                                 (0, Do.jsx)("h4", {
                                   className: "pill",
-                                  children: "localStorage",
+                                  children: "HTML",
                                 }),
                               ],
                             }),
@@ -16063,7 +16063,7 @@
                                   animate: !d && t ? { x: 0, opacity: 1 } : {},
                                   className: "inline-block",
                                   children:
-                                    "Lorem ipsum dolor sir amet avenna",
+                                    "Saya Membuat Website Ini Untuk Dijadikan salah satu contoh projek saya!",
                                 }),
                               ],
                             }),
