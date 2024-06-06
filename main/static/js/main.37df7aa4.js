@@ -15983,20 +15983,20 @@
                             id: "s1t",
                             className:
                               "image-container relative overflow-hidden",
-                            children: [
+                           // children: [
                               !h &&
-                              (0, Do.jsxs)("video", {
-                                className: "absolute top-0 left-0",
-                                autoPlay: !0,
-                                muted: !0,
-                                loop: !0,
-                                children: [
+                             // (0, Do.jsxs)("video", {
+                              //  className: "absolute top-0 left-0",
+                              //  autoPlay: !0,
+                              //  muted: !0,
+                              //  loop: !0,
+                              //  children: [
                                   // (0, Do.jsx)("source", {
                                    // src: "#",
                                   //  type: "video/mp4",
                                  // }),
                                  "Your browser does not support the video tag.",
-                                ],
+                              //  ],
                               }),
                               (0, Do.jsx)("img", {
                                 src: "https://raw.githubusercontent.com/VoyagerXyroo/aryaPortofolio/main/poject1.png",
