@@ -15965,30 +15965,35 @@
                   id: "works-grid",
                   children: [
                     (0, Do.jsxs)("div", {
-                      id: "s1t-row",
                       className: "grid",
-                      onMouseEnter: () => n(!0),
-                      onMouseLeave: () => n(!1),
+                      onMouseEnter: () => r(!0),
+                      onMouseLeave: () => r(!1),
                       children: [
                         (0, Do.jsxs)("div", {
                           className: "left",
                           children: [
-                            (0, Do.jsx)("p", { children: "Project 1" }),
-                            (0, Do.jsx)("h1", { children: "01" }),
+                            (0, Do.jsx)("p", {
+                              children: "(Judul)",
+                            }),
+                            (0, Do.jsx)("h1", { children: "02" }),
+                            (0, Do.jsx)(Fo, {
+                              url: "#",
+                              text: "Visit site",
+                              isCTA: !1,
+                            }),
                           ],
                         }),
                         (0, Do.jsx)("div", {
                           className: "mid",
-                          children: (0, Do.jsxs)("div", {
-                            id: "s1t",
+                          children: (0, Do.jsx)("div", {
+                            id: "history",
                             className:
                               "image-container relative overflow-hidden",
-                           children: (0, Do.jsx)("img", {
-                                src: "https://raw.githubusercontent.com/VoyagerXyroo/aryaPortofolio/main/poject1.png",
-                                alt: "",
-                                className: "absolute top-0 left-0 w-full",
-                              }),
-                            ],
+                            children: (0, Do.jsx)("img", {
+                              src: "https://raw.githubusercontent.com/VoyagerXyroo/avenna/main/coming%20soon.jpg",
+                              alt: "",
+                              className: "absolute top-0 left-0 w-full",
+                            }),
                           }),
                         }),
                         (0, Do.jsxs)("div", {
@@ -15998,13 +16003,13 @@
                               className: "mb-2vw",
                               children: "Year",
                             }),
-                            (0, Do.jsx)("h3", { children: "2024" }),
+                            (0, Do.jsx)("h3", { children: "(Year)" }),
                             (0, Do.jsx)("p", {
                               className: "mb-2vw",
                               children: "Role",
                             }),
                             (0, Do.jsx)("h3", {
-                              children: "Full-Stack Developer",
+                              children: "(Role)",
                             }),
                             (0, Do.jsx)("p", { children: "Technologies" }),
                             (0, Do.jsxs)("div", {
@@ -16012,15 +16017,15 @@
                               children: [
                                 (0, Do.jsx)("h4", {
                                   className: "pill",
-                                  children: "JavaScript",
+                                  children: "Javascript",
                                 }),
                                 (0, Do.jsx)("h4", {
                                   className: "pill",
-                                  children: "CSS",
+                                  children: "Photoshop",
                                 }),
                                 (0, Do.jsx)("h4", {
                                   className: "pill",
-                                  children: "HTML",
+                                  children: "ScrollMagic",
                                 }),
                               ],
                             }),
@@ -16034,21 +16039,21 @@
                                     delay: 0.2,
                                   },
                                   initial: { scaleY: 0 },
-                                  animate: !d && t ? { scaleY: 1 } : {},
+                                  animate: !d && i ? { scaleY: 1 } : {},
                                   className: "plus inline-block self-start",
                                   children: "+",
                                 }),
                                 (0, Do.jsx)(To.span, {
                                   transition: {
-                                    duration: 0.2,
+                                    duration: 0.5,
                                     ease: [0.075, 0.82, 0.165, 1],
                                     delay: 0.4,
                                   },
                                   initial: { x: -10, opacity: 0 },
-                                  animate: !d && t ? { x: 0, opacity: 1 } : {},
+                                  animate: !d && i ? { x: 0, opacity: 1 } : {},
                                   className: "inline-block",
                                   children:
-                                    "Saya Membuat Website Ini Untuk Dijadikan salah satu contoh projek saya!",
+                                    "Lorem ipsum dolor sit amet jamet.",
                                 }),
                               ],
                             }),
