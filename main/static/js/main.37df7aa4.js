@@ -15977,7 +15977,7 @@
                             }),
                             (0, Do.jsx)("h1", { children: "01" }),
                             (0, Do.jsx)(Fo, {
-                              url: "https://project1-gilt-one.vercel.app/chiquita/index.html",
+                              url: "-",
                               text: "Visit site",
                               isCTA: !1,
                             }),
@@ -15990,7 +15990,7 @@
                             className:
                               "image-container relative overflow-hidden",
                             children: (0, Do.jsx)("img", {
-                              src: "https://raw.githubusercontent.com/VoyagerXyroo/aryaPortofolio/main/poject1.png",
+                              src: "https://raw.githubusercontent.com/VoyagerXyroo/avenna/main/coming%20soon.jpg",
                               alt: "",
                               className: "absolute top-0 left-0 w-full",
                             }),
@@ -16053,7 +16053,7 @@
                                   animate: !d && i ? { x: 0, opacity: 1 } : {},
                                   className: "inline-block",
                                   children:
-                                    "Saya Membuat Website Ini Hanya Untuk Menjadikannya Contoh Projek Saya. (Use Desktop For Better Experiece)",
+                                    "Lorem ipsum dolor sit amet",
                                 }),
                               ],
                             }),
@@ -16070,7 +16070,7 @@
                           className: "left",
                           children: [
                             (0, Do.jsx)("p", {
-                              children: "(Judul)",
+                              children: "Project 2",
                             }),
                             (0, Do.jsx)("h1", { children: "02" }),
                             (0, Do.jsx)(Fo, {
@@ -16168,7 +16168,7 @@
                           className: "left",
                           children: [
                             (0, Do.jsx)("p", {
-                              children: "(Judul)",
+                              children: "Project 3",
                             }),
                             (0, Do.jsx)("h1", { children: "03" }),
                           ],
@@ -16275,7 +16275,7 @@
                         (0, Do.jsxs)("div", {
                           className: "left",
                           children: [
-                            (0, Do.jsx)("p", { children: "(Judul)" }),
+                            (0, Do.jsx)("p", { children: "Project 4" }),
                             (0, Do.jsx)("h1", { children: "04" }),
                             (0, Do.jsx)(Fo, {
                               url: "#",
