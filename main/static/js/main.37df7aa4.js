@@ -16003,13 +16003,13 @@
                               className: "mb-2vw",
                               children: "Year",
                             }),
-                            (0, Do.jsx)("h3", { children: "2024" }),
+                            (0, Do.jsx)("h3", { children: "(YEAR)" }),
                             (0, Do.jsx)("p", {
                               className: "mb-2vw",
                               children: "Role",
                             }),
                             (0, Do.jsx)("h3", {
-                              children: "Full-Stack Developer",
+                              children: "(ROLE)",
                             }),
                             (0, Do.jsx)("p", { children: "Technologies" }),
                             (0, Do.jsxs)("div", {
