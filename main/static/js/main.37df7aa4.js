@@ -15977,7 +15977,7 @@
                             }),
                             (0, Do.jsx)("h1", { children: "01" }),
                             (0, Do.jsx)(Fo, {
-                              url: "-",
+                              url: "http://merzzgameshop.wuaze.com/merzz_project/merzz/index.html",
                               text: "Visit site",
                               isCTA: !1,
                             }),
@@ -15990,7 +15990,7 @@
                             className:
                               "image-container relative overflow-hidden",
                             children: (0, Do.jsx)("img", {
-                              src: "https://raw.githubusercontent.com/VoyagerXyroo/avenna/main/coming%20soon.jpg",
+                              src: "https://raw.githubusercontent.com/VoyagerXyroo/aryaportfolio/main/project1.png",
                               alt: "",
                               className: "absolute top-0 left-0 w-full",
                             }),
@@ -16003,13 +16003,13 @@
                               className: "mb-2vw",
                               children: "Year",
                             }),
-                            (0, Do.jsx)("h3", { children: "(YEAR)" }),
+                            (0, Do.jsx)("h3", { children: "2024" }),
                             (0, Do.jsx)("p", {
                               className: "mb-2vw",
                               children: "Role",
                             }),
                             (0, Do.jsx)("h3", {
-                              children: "(ROLE)",
+                              children: "Front-End Developer",
                             }),
                             (0, Do.jsx)("p", { children: "Technologies" }),
                             (0, Do.jsxs)("div", {
@@ -16025,7 +16025,7 @@
                                 }),
                                 (0, Do.jsx)("h4", {
                                   className: "pill",
-                                  children: "HTML",
+                                  children: "PHP",
                                 }),
                               ],
                             }),
@@ -16053,7 +16053,7 @@
                                   animate: !d && i ? { x: 0, opacity: 1 } : {},
                                   className: "inline-block",
                                   children:
-                                    "Lorem ipsum dolor sit amet",
+                                    "Ini adalah website shop akun Mobile Legends dan Jasa lainnya yang di sediakan oleh Merzz Gameshop.",
                                 }),
                               ],
                             }),
