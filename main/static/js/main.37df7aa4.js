@@ -35926,11 +35926,11 @@
                           className: "absolute pill target",
                           children: "UI/UX design",
                         }),
-                        (0, Do.jsx)("h4", {
-                          id: "api",
-                          className: "absolute pill target",
-                          children: "API",
-                        }),
+                        // (0, Do.jsx)("h4", {
+                        //   id: "api",
+                        //   className: "absolute pill target",
+                        //   children: "API",
+                        // }),
                         (0, Do.jsx)("h4", {
                           id: "bootstrap",
                           className: "absolute pill target",
