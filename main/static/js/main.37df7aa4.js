@@ -15977,7 +15977,7 @@
                             }),
                             (0, Do.jsx)("h1", { children: "01" }),
                             (0, Do.jsx)(Fo, {
-                              url: "http://merzzgameshop.wuaze.com/merzz_project/merzz/index.html",
+                              url: "https://merzzgameshop.wuaze.com/merzz_project/merzz/index.html",
                               text: "Visit site",
                               isCTA: !1,
                             }),
