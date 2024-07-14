@@ -37623,7 +37623,7 @@
                           children: [
                             (0, Do.jsx)("img", {
                               className: "",
-                              src: "https://raw.githubusercontent.com/VoyagerXyroo/aryaportfolio/main/Untitled%20design.png",
+                              src: "https://raw.githubusercontent.com/VoyagerXyroo/aryaPortofolio/main/main/cq.jpg",
                               alt: "",
                             }),
                             (0, Do.jsx)(To.img, { 
@@ -37636,7 +37636,7 @@
                               initial: { opacity: 1 },
                               animate: r ? { opacity: 0 } : {},
                               className: "absolute top-0 left-0",
-                              src: "https://raw.githubusercontent.com/VoyagerXyroo/aryaportfolio/main/Untitled%20design%20(1).png",
+                              src: "https://raw.githubusercontent.com/VoyagerXyroo/aryaPortofolio/main/main/er_g.jpg",
                               alt: "",
                             }),
                           ],
