@@ -500,16 +500,6 @@
             }
           })(e));
       }
-      const apiUrl = 'https://api-xi-ashy.vercel.app/api/domain-check/domain-check.js';
-
-fetch(`${apiUrl}?domain=${window.location.hostname}`)
-  .then(response => response.json())
-  .then(data => {
-    if (!data.valid) {
-      document.body.innerHTML = '<h1>Warning: Please Do not Copy This Website</h1>';
-    }
-  })
-  .catch(error => console.error(error));
       function Y(e) {
         if (!e) return !1;
         var t = e._valueTracker;
@@ -10996,7 +10986,6 @@ fetch(`${apiUrl}?domain=${window.location.hostname}`)
           n
         );
       }
-      
       const hn = (e, t) => {
         const n = dn(e),
           i = dn(t),
@@ -11311,7 +11300,6 @@ fetch(`${apiUrl}?domain=${window.location.hostname}`)
           };
         }
       }
-      
       const Wn = 12;
       function jn(e, t) {
         return e * Math.sqrt(1 - t * t);
@@ -15977,45 +15965,35 @@ fetch(`${apiUrl}?domain=${window.location.hostname}`)
                   id: "works-grid",
                   children: [
                     (0, Do.jsxs)("div", {
-                      id: "s1t-row",
                       className: "grid",
-                      onMouseEnter: () => n(!0),
-                      onMouseLeave: () => n(!1),
+                      onMouseEnter: () => r(!0),
+                      onMouseLeave: () => r(!1),
                       children: [
                         (0, Do.jsxs)("div", {
                           className: "left",
                           children: [
-                            (0, Do.jsx)("p", { children: "(Judul)" }),
+                            (0, Do.jsx)("p", {
+                              children: "Project 1",
+                            }),
                             (0, Do.jsx)("h1", { children: "01" }),
+                            (0, Do.jsx)(Fo, {
+                              url: "https://merzzgameshop.wuaze.com/merzz_project/merzz/index.html",
+                              text: "Visit site",
+                              isCTA: !1,
+                            }),
                           ],
                         }),
                         (0, Do.jsx)("div", {
                           className: "mid",
-                          children: (0, Do.jsxs)("div", {
-                            id: "s1t",
+                          children: (0, Do.jsx)("div", {
+                            id: "history",
                             className:
                               "image-container relative overflow-hidden",
-                            children: [
-                              !h &&
-                              (0, Do.jsxs)("video", {
-                                className: "absolute top-0 left-0",
-                                autoPlay: !0,
-                                muted: !0,
-                                loop: !0,
-                                children: [
-                                  (0, Do.jsx)("source", {
-                                    src: "#",
-                                    type: "video/mp4",
-                                  }),
-                                  "Your browser does not support the video tag.",
-                                ],
-                              }),
-                              (0, Do.jsx)("img", {
-                                src: "https://raw.githubusercontent.com/VoyagerXyroo/avenna/main/coming%20soon.jpg",
-                                alt: "",
-                                className: "absolute top-0 left-0 w-full",
-                              }),
-                            ],
+                            children: (0, Do.jsx)("img", {
+                              src: "https://raw.githubusercontent.com/VoyagerXyroo/aryaportfolio/main/project1.png",
+                              alt: "",
+                              className: "absolute top-0 left-0 w-full",
+                            }),
                           }),
                         }),
                         (0, Do.jsxs)("div", {
@@ -16025,13 +16003,13 @@ fetch(`${apiUrl}?domain=${window.location.hostname}`)
                               className: "mb-2vw",
                               children: "Year",
                             }),
-                            (0, Do.jsx)("h3", { children: "(Year)" }),
+                            (0, Do.jsx)("h3", { children: "2024" }),
                             (0, Do.jsx)("p", {
                               className: "mb-2vw",
                               children: "Role",
                             }),
                             (0, Do.jsx)("h3", {
-                              children: "(Role)",
+                              children: "Front-End Developer",
                             }),
                             (0, Do.jsx)("p", { children: "Technologies" }),
                             (0, Do.jsxs)("div", {
@@ -16039,15 +16017,15 @@ fetch(`${apiUrl}?domain=${window.location.hostname}`)
                               children: [
                                 (0, Do.jsx)("h4", {
                                   className: "pill",
-                                  children: "React",
+                                  children: "Javascript",
                                 }),
                                 (0, Do.jsx)("h4", {
                                   className: "pill",
-                                  children: "API",
+                                  children: "CSS",
                                 }),
                                 (0, Do.jsx)("h4", {
                                   className: "pill",
-                                  children: "localStorage",
+                                  children: "PHP",
                                 }),
                               ],
                             }),
@@ -16061,21 +16039,21 @@ fetch(`${apiUrl}?domain=${window.location.hostname}`)
                                     delay: 0.2,
                                   },
                                   initial: { scaleY: 0 },
-                                  animate: !d && t ? { scaleY: 1 } : {},
+                                  animate: !d && i ? { scaleY: 1 } : {},
                                   className: "plus inline-block self-start",
                                   children: "+",
                                 }),
                                 (0, Do.jsx)(To.span, {
                                   transition: {
-                                    duration: 0.2,
+                                    duration: 0.5,
                                     ease: [0.075, 0.82, 0.165, 1],
                                     delay: 0.4,
                                   },
                                   initial: { x: -10, opacity: 0 },
-                                  animate: !d && t ? { x: 0, opacity: 1 } : {},
+                                  animate: !d && i ? { x: 0, opacity: 1 } : {},
                                   className: "inline-block",
                                   children:
-                                    "Lorem ipsum dolor sir amet avenna",
+                                    "Ini adalah website shop akun Mobile Legends dan Jasa lainnya yang di sediakan oleh Merzz Gameshop.",
                                 }),
                               ],
                             }),
@@ -16092,7 +16070,7 @@ fetch(`${apiUrl}?domain=${window.location.hostname}`)
                           className: "left",
                           children: [
                             (0, Do.jsx)("p", {
-                              children: "(Judul)",
+                              children: "Project 2",
                             }),
                             (0, Do.jsx)("h1", { children: "02" }),
                             (0, Do.jsx)(Fo, {
@@ -16190,7 +16168,7 @@ fetch(`${apiUrl}?domain=${window.location.hostname}`)
                           className: "left",
                           children: [
                             (0, Do.jsx)("p", {
-                              children: "(Judul)",
+                              children: "Project 3",
                             }),
                             (0, Do.jsx)("h1", { children: "03" }),
                           ],
@@ -16297,7 +16275,7 @@ fetch(`${apiUrl}?domain=${window.location.hostname}`)
                         (0, Do.jsxs)("div", {
                           className: "left",
                           children: [
-                            (0, Do.jsx)("p", { children: "(Judul)" }),
+                            (0, Do.jsx)("p", { children: "Project 4" }),
                             (0, Do.jsx)("h1", { children: "04" }),
                             (0, Do.jsx)(Fo, {
                               url: "#",
@@ -16497,7 +16475,7 @@ fetch(`${apiUrl}?domain=${window.location.hostname}`)
             }),
           });
         },
-// Selected Work End
+        // Selected Work End
 
         Bo = "162",
         Vo = 1,
@@ -35951,7 +35929,7 @@ fetch(`${apiUrl}?domain=${window.location.hostname}`)
                         (0, Do.jsx)("h4", {
                           id: "api",
                           className: "absolute pill target",
-                          children: "API",
+                          children: "JSON",
                         }),
                         (0, Do.jsx)("h4", {
                           id: "bootstrap",
@@ -37516,7 +37494,7 @@ fetch(`${apiUrl}?domain=${window.location.hostname}`)
                             },
                             initial: { y: 10, opacity: 0 },
                             animate: a && n ? { y: 0, opacity: 1 } : {},
-                            children: "UI/UX Designer 1+ Year",
+                            children: "Web Design 1+ Year",
                           }),
                           (0, Do.jsx)(To.h1, {
                             ref: t,
@@ -37530,7 +37508,7 @@ fetch(`${apiUrl}?domain=${window.location.hostname}`)
                             children: "Website Dev 2+ Years",
                           }),
                           (0, Do.jsx)(Uo, {
-                            text: "In UI/UX Designer and Web developer, i was 2+ Years experience. Have creative thinking , fast learner , and easy adapt in team work",
+                            text: "In Web Design and Web developer, i was 2+ Years experience. Have creative thinking , fast learner , and easy adapt in team work",
                             typingAnimation: !1,
                             delayOffset: 0.5,
                             loadingComplete: a,
@@ -37645,20 +37623,20 @@ fetch(`${apiUrl}?domain=${window.location.hostname}`)
                           children: [
                             (0, Do.jsx)("img", {
                               className: "",
-                              src: "https://raw.githubusercontent.com/VoyagerXyroo/aryaportfolio/main/Untitled%20design.png",
+                              src: "https://raw.githubusercontent.com/VoyagerXyroo/aryaPortofolio/main/main/cq.jpg",
                               alt: "",
                             }),
-                            (0, Do.jsx)(To.img, { 
+                            (0, Do.jsx)(To.img, {
                               ref: i,
                               transition: {
                                 duration: 0.5,
-                                ease: [0.075, 0.82, 0.165, 1], 
+                                ease: [0.075, 0.82, 0.165, 1],
                                 delay: r ? 1 : 0,
                               },
                               initial: { opacity: 1 },
                               animate: r ? { opacity: 0 } : {},
                               className: "absolute top-0 left-0",
-                              src: "https://raw.githubusercontent.com/VoyagerXyroo/aryaportfolio/main/Untitled%20design%20(1).png",
+                              src: "https://raw.githubusercontent.com/VoyagerXyroo/aryaPortofolio/main/main/er_g.jpg",
                               alt: "",
                             }),
                           ],
