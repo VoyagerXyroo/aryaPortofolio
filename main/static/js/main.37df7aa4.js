@@ -1,4 +1,3 @@
-
 (() => {
   "use strict";
   var e = {
@@ -16475,7 +16474,7 @@
             }),
           });
         },
-        // Selected Work End
+// Selected Work End
 
         Bo = "162",
         Vo = 1,
@@ -37626,11 +37625,11 @@
                               src: "https://raw.githubusercontent.com/VoyagerXyroo/aryaPortofolio/main/main/cq.jpg",
                               alt: "",
                             }),
-                            (0, Do.jsx)(To.img, {
+                            (0, Do.jsx)(To.img, { 
                               ref: i,
                               transition: {
                                 duration: 0.5,
-                                ease: [0.075, 0.82, 0.165, 1],
+                                ease: [0.075, 0.82, 0.165, 1], 
                                 delay: r ? 1 : 0,
                               },
                               initial: { opacity: 1 },
@@ -37675,3 +37674,4 @@
         gm();
     })();
 })();
+
