@@ -16073,7 +16073,7 @@
                             }),
                             (0, Do.jsx)("h1", { children: "02" }),
                             (0, Do.jsx)(Fo, {
-                              url: "#",
+                              url: "https://website2pdf-wheat.vercel.app/",
                               text: "Visit site",
                               isCTA: !1,
                             }),
@@ -16086,7 +16086,7 @@
                             className:
                               "image-container relative overflow-hidden",
                             children: (0, Do.jsx)("img", {
-                              src: "https://raw.githubusercontent.com/VoyagerXyroo/avenna/main/coming%20soon.jpg",
+                              src: "https://raw.githubusercontent.com/VoyagerXyroo/aryaPortofolio/main/main/project2.png",
                               alt: "",
                               className: "absolute top-0 left-0 w-full",
                             }),
@@ -16105,7 +16105,7 @@
                               children: "Role",
                             }),
                             (0, Do.jsx)("h3", {
-                              children: "(Role)",
+                              children: "Full-stack Developer",
                             }),
                             (0, Do.jsx)("p", { children: "Technologies" }),
                             (0, Do.jsxs)("div", {
@@ -16117,11 +16117,11 @@
                                 }),
                                 (0, Do.jsx)("h4", {
                                   className: "pill",
-                                  children: "Photoshop",
+                                  children: "Python",
                                 }),
                                 (0, Do.jsx)("h4", {
                                   className: "pill",
-                                  children: "ScrollMagic",
+                                  children: "HTML",
                                 }),
                               ],
                             }),
@@ -16149,7 +16149,7 @@
                                   animate: !d && i ? { x: 0, opacity: 1 } : {},
                                   className: "inline-block",
                                   children:
-                                    "Lorem ipsum dolor sit amet jamet.",
+                                    "Pada project kedua ini, saya membuat sebuah website converter dari Website ke PDF. website ini sangat berguna bagi seorang pelajar jika disuruh mengambil materi dari website, agar tidak perlu menulis secara manual.",
                                 }),
                               ],
                             }),
