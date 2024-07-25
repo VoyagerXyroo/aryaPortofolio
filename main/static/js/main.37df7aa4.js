@@ -16099,7 +16099,7 @@
                               className: "mb-2vw",
                               children: "Year",
                             }),
-                            (0, Do.jsx)("h3", { children: "(Year)" }),
+                            (0, Do.jsx)("h3", { children: "2024" }),
                             (0, Do.jsx)("p", {
                               className: "mb-2vw",
                               children: "Role",
